@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&family=Parisienne&family=Rubik+Wet+Paint&display=swap');
+
+#home, #home a:link, #home a:visited {
+    color: #9295A8;
+}
+
+#grey {
+    color: #9295A8;
+}
+
+#nav-vball, #nav-vball a:link, #nav-vball a:visited {
+    color: #96A1FF;
+}
+
+#nav-photos, #nav-photos a:link, #nav-photos a:visited {
+    color: #96A1FF;
+}
+
+#nav-practice, #nav-practice a:link, #nav-practice a:visited {
+    color: #96A1FF;
+}
+
+p a:link, p a:visited {
+    color: #F0BD07;
+    text-decoration: none;
+}
+
+p a:link.top-footer, p a:visited.top-footer {
+    color: #9295A8;
+    text-decoration: none;
+}
+
+body {
+    background-color: #9295A8;
+}
+
+div.menu {
+    background-color: black;
+}
+
+div.block {
+    background-color: black;
+    display: block;
+}
+
+div.block-cat {
+    background-color: #96A1FF;
+}
+
+div.block-dog {
+    background-color: #5D6CF0;
+}
+
+div.block-bird {
+    background-color: #A39A77;
+}
+
+div.block-fish {
+    background-color: #F0BD07;
+}
+
+img {
+    border-style: dashed;
+    border-color: #A39A77;
+}
+
+h1 {
+    color: #F0BD07;
+    line-height: 123pt;
+}
+
+h1.a {
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 123px;
+}
+
+h1.b {
+    font-family: 'Emblema One', cursive;
+    font-size: 123px;
+}
+
+h1.c {
+    font-family: 'Parisienne', cursive;
+    font-size: 123px;
+}
+
+h2 {
+    font-weight: bolder;
+    color: #3849E0;
+}
+
+#bio {
+    font-weight: 560;
+    font-size: larger;
+}
+
+span {
+    font-size: 32px;
+}
+
+hr  {
+    color: black;
+}
+
+hr#menu {
+    color: #9295A8;
+}
